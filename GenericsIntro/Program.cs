@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace GenericsIntro
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MyList isimler = new MyList();
         }
     }
 }
